@@ -1,0 +1,49 @@
+{
+    "total": 3,
+    "count": 3,
+    "limit": 10,
+    "offset": 0,
+    "items": [
+        {
+            "name": "Coupon # 1",
+            "code": "MOXQ3YCWXRXA",
+            "discountType": "ABS",
+            "status": "ACTIVE",
+            "discount": 1,
+            "launchDate": "2014-06-06 08:00:00 +0400",
+            "usesLimit": "UNLIMITED",
+            "repeatCustomerOnly": false,
+            "creationDate": "2014-06-06 18:57:19 +0400",
+            "expirationDate": "2016-06-06 18:57:19 +0400",
+            "orderCount": 0,
+            "catalogLimit": {
+                "products": [
+                    37208342, 37208338
+                ],
+                "categories": []
+            }
+        }, {
+            "name": "Coupon # 2",
+            "code": "O3Q4AP5FKXJ1",
+            "discountType": "PERCENT",
+            "status": "PAUSED",
+            "discount": 5,
+            "launchDate": "2014-06-06 08:00:00 +0400",
+            "usesLimit": "UNLIMITED",
+            "repeatCustomerOnly": false,
+            "creationDate": "2014-06-06 18:57:19 +0400",
+            "orderCount": 0
+        }, {
+            "name": "Coupon # 2",
+            "code": "O3Q4AP5FKXJ1",
+            "discountType": "PERCENT",
+            "status": "PAUSED",
+            "discount": 5,
+            "launchDate": "2014-06-06 08:00:00 +0400",
+            "usesLimit": "UNLIMITED",
+            "repeatCustomerOnly": false,
+            "creationDate": "2014-06-06 18:57:19 +0400",
+            "orderCount": 0
+        }
+    ]
+}
